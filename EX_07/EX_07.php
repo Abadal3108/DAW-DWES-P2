@@ -1,4 +1,4 @@
-<<table style="margin:auto">
+<table style="margin:auto">
     <?php
     $posicion =0;
     for ($row = 1; $row <= 8; $row++) {
@@ -17,7 +17,7 @@
                     $color = '#fff';
                 }
             }
-
+//a
             echo "<td style='border:1px solid;height:90px;width:90px;background-color:".$color ."' >    </td>";
 
 
