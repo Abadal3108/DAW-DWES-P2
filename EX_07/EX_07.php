@@ -1,6 +1,5 @@
-<table style="margin:auto">
+<<table style="margin:auto">
     <?php
-    $posicion =0;
     for ($row = 1; $row <= 8; $row++) {
         echo "<tr>";
         for ($col = 1; $col <= 8; $col++) {
